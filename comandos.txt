@@ -1,0 +1,5 @@
+alembic
+###
+alembic revision --autogenerate -m "nombre de la accion"
+###
+alembic upgrade heads
