@@ -11,3 +11,7 @@ pytest
 requests
 httpx
 coverage
+###firebase-tools
+jinja2
+aiohttp
+cchardet
